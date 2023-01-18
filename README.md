@@ -60,15 +60,27 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 * express-session
 * connect-session-sequelize 
 * bcrypt
+* heroku
 
 ## Installation
 
-* Clone the repository
-* run $ npm install in command line
-* run $ nodemon server to start the server 
+Clone the repository, then in the command line enter the following:
+~~~ 
+npm install 
+~~~ 
+to install all package dependancies. Type 
+~~~ 
+npm start 
+~~~ 
+to start the server on your localhost.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Deployment
+
+[Heroku Deployment link]()
 
 ## Github Link
 
-Click here for the link to my [Github Respository](https://github.com/Gdebortoli/Tech.blog.mvc.14) 
+Click here for the link to my [Github Respository](https://github.com/Gdebortoli/tb-making-victory-cookies-14) 
 
