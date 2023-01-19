@@ -13,6 +13,7 @@ Build from Scatch a CMS-style blog site similar to a Wordpress site, where devel
 - [Objectives](#objectives)
 - [Assets](#assets)
 - [Installation](#installation)
+- [Deployment](#deployment)
 - [Github Link](#github-link)
 
 ## Objectives
@@ -61,6 +62,9 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 * connect-session-sequelize 
 * bcrypt
 * heroku
+* dotenv
+* css
+* html
 
 ## Installation
 
