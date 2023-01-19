@@ -66,6 +66,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 * css
 * html
 
+## Screen Shots
+
 ## Installation
 
 Clone the repository, then in the command line enter the following:
@@ -82,7 +84,21 @@ to start the server on your localhost.
 
 ## Deployment
 
-[Heroku Deployment link]()
+[Heroku Deployment link](https://tb-making-victory-cookies14.herokuapp.com/)
+
+## Screen Shots
+
+* Blog Post 
+![Post](./assets/blogpostsSC.png)
+
+
+* Create a new blog post
+![Create Post](./assets/createSC.png)
+
+* Edit a post 
+![Edit Post](./assets/editSC.png)
+
+
 
 ## Github Link
 
